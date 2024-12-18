@@ -48,7 +48,7 @@
 
 ---
 
-<div style="display: flex; align-items: stretch; justify-content: center; gap: 10px; max-width: 100%">
+<div style="display: flex; align-items: stretch; justify-content: center; gap: 10px; max-width: 100% flex-shrink:0">
   <div>
     <h2 style="margin:0"> Check out my Spotify! ➡️ </h2>
     <h3 style="font-weight: normal"> GitHub Stats: ⬇️ </h3>
