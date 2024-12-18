@@ -47,22 +47,19 @@
 </picture>
 
 ---
+<table>
+  <tr>
+    <td style="border: none;">
+      <p><strong>🎤 Check out my Spotify! ➡️</strong></p>
+      <p><strong>My GitHub stats! ⬇️</strong></p>
+      <img src="https://streak-stats.demolab.com?user=enxilium&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph" />
+    </td>
+    <td style="border: none;">
+      <a href="https://open.spotify.com/user/iuwn5kfu3lmm6e0thhr6vf8aw">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=iuwn5kfu3lmm6e0thhr6vf8aw&count=5" alt="Spotify recently played" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div style="display: flex; align-items: stretch; justify-content: center; gap: 10px; max-width: 100%">
-  <div>
-    <h2 style="margin:0"> Check out my Spotify! ➡️ </h2>
-    <h3 style="font-weight: normal"> GitHub Stats: ⬇️ </h3>
-    <img 
-      src="https://streak-stats.demolab.com?user=enxilium&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" 
-      alt="streak graph" 
-    />
-  </div>
-  <a href="https://open.spotify.com/user/iuwn5kfu3lmm6e0thhr6vf8aw" 
-     style="text-decoration: none;">
-    <img 
-      src="https://spotify-recently-played-readme.vercel.app/api?user=iuwn5kfu3lmm6e0thhr6vf8aw&count=5" 
-      alt="Spotify recently played" 
-    />
-  </a>
-</div>
 
