@@ -46,20 +46,3 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/enxilium/enxilium/output/github-snake.svg" />
 </picture>
 
----
-<table>
-  <tr>
-    <td style="border: none;">
-      <p><strong>🎤 Check out my Spotify! ➡️</strong></p>
-      <p><strong>My GitHub stats! ⬇️</strong></p>
-      <img src="https://streak-stats.demolab.com?user=enxilium&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph" />
-    </td>
-    <td style="border: none;">
-      <a href="https://open.spotify.com/user/iuwn5kfu3lmm6e0thhr6vf8aw">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=iuwn5kfu3lmm6e0thhr6vf8aw&count=5" alt="Spotify recently played" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
