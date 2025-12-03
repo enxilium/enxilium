@@ -24,7 +24,7 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-- 🖥️ I'm a first-year computer science student at the University of Toronto
+- 🖥️ I'm a second-year computer science student at the University of Toronto
 - 📚 Currently learning **React Native** & mobile development in preparation for my next big project 👀
 - 🎶 In my free time, if I'm not experimenting with some new side project, I'm probably writing novels or messing around in **FL Studio** \:)
 - 
