@@ -7,9 +7,12 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/jace-mu/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" hre  />
+  </a>
+   <a href="https://www.jacemu.xyz/">
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="25" alt="codesandbox logo"  />
-  <img src="https://img.shields.io/static/v1?message=Devpost&logo=dev.to&label=&color=white&logoColor=green&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</a>
 </div>
 
 ###
